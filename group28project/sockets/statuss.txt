@@ -1,0 +1,15 @@
+ 
+ double|sara|   |EBD009|EBD00900|127.0.0.1|50918|2018-8-3|11:22:17|4|Waiting;
+ delete|sara|2,4|EBD009|EBD00901|127.0.0.1|50918|2018-8-3|11:22:18|4|Waiting;
+ encrypt|boy|   |EBD009|EBD00902|127.0.0.1|50918|2018-8-3|11:22:19|3|Waiting;
+double|sara|   |EBD009|EBD00900|127.0.0.1|50918|2018-8-3|11:22:17|4|inProgress;
+delete|sara|2,4|EBD009|EBD00901|127.0.0.1|50918|2018-8-3|11:22:18|4|inProgress;
+encrypt|boy|   |EBD009|EBD00902|127.0.0.1|50918|2018-8-3|11:22:19|3|inProgress;
+encrypt|boy|   |EBD009|EBD00902|127.0.0.1|50918|2018-8-3|11:22:19|3|Finished;
+double|sara|   |EBD009|EBD00900|127.0.0.1|50918|2018-8-3|11:22:17|4|Finished;
+delete|sara|2,4|EBD009|EBD00901|127.0.0.1|50918|2018-8-3|11:22:18|4|Finished;
+ reverse|wilberforce|   |GSA22|GSA2200|127.0.0.1|50920|2018-8-3|11:25:24|11|Waiting;
+ double|timothy|   |GSA22|GSA2201|127.0.0.1|50920|2018-8-3|11:25:25|7|Waiting;
+reverse|wilberforce|   |GSA22|GSA2200|127.0.0.1|50920|2018-8-3|11:25:24|11|inProgress;
+double|timothy|   |GSA22|GSA2201|127.0.0.1|50920|2018-8-3|11:25:25|7|inProgress;
+double|timothy|   |GSA22|GSA2201|127.0.0.1|50920|2018-8-3|11:25:25|7|Finished;
